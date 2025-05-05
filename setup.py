@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="langchain-desearch",  # Replace with your desired package name
-    version="0.1.0",  # Initial version
+    version="1.0.0",  # Initial version
     author="Desearch",  # Replace with your name
     author_email="your-email@example.com",  # Replace with your email
     description="LangChain integration with Datura API for search and data-fetching tools.",
